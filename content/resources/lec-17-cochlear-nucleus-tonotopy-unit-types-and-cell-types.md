@@ -2,6 +2,14 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types:
+- Lecture Videos
+optional_tab_title: ''
+optional_text: ''
+parent_title: Lecture Videos
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: 'Lec 17: Cochlear nucleus: Tonotopy, unit types and cell types'
 uid: c92620c7-27fb-73a9-a3b9-ba42e84d1500

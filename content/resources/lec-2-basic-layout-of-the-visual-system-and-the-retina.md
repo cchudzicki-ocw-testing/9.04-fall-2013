@@ -2,6 +2,14 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types:
+- Lecture Videos
+optional_tab_title: Lecture Notes
+optional_text: '[Basic layout of the retina (PDF)](resources/mit9_04f13_vis2)'
+parent_title: Lecture Videos
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: 'Lec 2: Basic layout of the visual system and the retina'
 uid: f9b7c8b7-9662-2d63-16e6-80635913226c

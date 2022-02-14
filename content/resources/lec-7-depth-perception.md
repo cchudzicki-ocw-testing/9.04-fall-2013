@@ -2,6 +2,14 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types:
+- Lecture Videos
+optional_tab_title: Lecture Notes
+optional_text: '[Depth perception (PDF - 5.0MB)](resources/mit9_04f13_vis7)'
+parent_title: Lecture Videos
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: 'Lec 7: Depth perception'
 uid: 3be9873a-c484-7aa7-282e-9cc40fb24183

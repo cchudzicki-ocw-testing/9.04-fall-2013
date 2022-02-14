@@ -2,6 +2,15 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types:
+- Lecture Videos
+optional_tab_title: Lecture Notes
+optional_text: '[The neural control of visually guided eye movements, part 1 (PDF
+  - 1.2MB)](resources/mit9_04f13_vis10)'
+parent_title: Lecture Videos
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: 'Lec 10: The neural control of visually guided eye movements 1'
 uid: 62ee53d7-7571-81fa-5f9c-9db3c15876af

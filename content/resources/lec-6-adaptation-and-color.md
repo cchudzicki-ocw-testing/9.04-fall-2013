@@ -2,6 +2,14 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types:
+- Lecture Videos
+optional_tab_title: Lecture Notes
+optional_text: '[Adaptation and color (PDF - 1.6MB)](resources/mit9_04f13_vis6)'
+parent_title: Lecture Videos
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: 'Lec 6: Adaptation and color'
 uid: 4e96fe44-8269-8e6a-b102-07395b532a88

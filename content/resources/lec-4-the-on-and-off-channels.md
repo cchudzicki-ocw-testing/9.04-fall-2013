@@ -2,6 +2,14 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types:
+- Lecture Videos
+optional_tab_title: Lecture Notes
+optional_text: '[The ON and OFF channels (PDF - 2.3MB)](resources/mit9_04f13_vis4)'
+parent_title: Lecture Videos
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: 'Lec 4: The ON and OFF channels'
 uid: 4ece218d-0481-5900-bc08-fbef3c82626f

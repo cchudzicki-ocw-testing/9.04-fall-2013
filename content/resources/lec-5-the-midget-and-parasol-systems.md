@@ -2,6 +2,14 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types:
+- Lecture Videos
+optional_tab_title: Lecture Notes
+optional_text: '[The Midget and Parasol channels (PDF)](resources/mit9_04f13_vis5)'
+parent_title: Lecture Videos
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: 'Lec 5: The Midget and Parasol systems'
 uid: 442b0062-dda2-1876-2505-b64d0a5d0211

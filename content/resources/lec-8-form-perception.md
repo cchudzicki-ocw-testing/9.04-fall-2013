@@ -2,6 +2,14 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types:
+- Lecture Videos
+optional_tab_title: Lecture Notes
+optional_text: '[Form perception (PDF - 3.5MB)](resources/mit9_04f13_vis8)'
+parent_title: Lecture Videos
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: 'Lec 8: Form perception'
 uid: 68d9682c-5295-8a20-a427-e60a740d6718
