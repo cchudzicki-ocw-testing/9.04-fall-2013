@@ -9,6 +9,5 @@ parent_title: Lecture Notes
 parent_type: CourseSection
 resourcetype: Document
 title: 'Vision Lecture 9 Notes: Illusions'
-type: OCWFile
 uid: 0192820c-d964-a2c4-a084-338a1a883ccd
 ---

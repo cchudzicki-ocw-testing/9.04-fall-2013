@@ -9,6 +9,5 @@ parent_title: Lecture Notes
 parent_type: CourseSection
 resourcetype: Document
 title: 'Vision Lecture 6 Notes: Color and adaptation'
-type: OCWFile
 uid: 361e721b-fba6-49ac-90ee-200b32fcfc6d
 ---

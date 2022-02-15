@@ -9,6 +9,5 @@ parent_title: Lecture Notes
 parent_type: CourseSection
 resourcetype: Document
 title: 'Vision Lecture 1 Notes: Introduction, visual system'
-type: OCWFile
 uid: 8a7663d2-97f0-15f9-a53d-ca73261d2edf
 ---

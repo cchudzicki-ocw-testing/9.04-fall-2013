@@ -9,6 +9,5 @@ parent_title: Lecture Notes
 parent_type: CourseSection
 resourcetype: Document
 title: 'Audition Lecture 1 Notes: Introduction to audition'
-type: OCWFile
 uid: 15396a3f-5cea-cf99-be76-cb46933788b8
 ---

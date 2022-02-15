@@ -9,6 +9,5 @@ parent_title: Lecture Notes
 parent_type: CourseSection
 resourcetype: Document
 title: 'Vision Lecture 3 Notes: Lateral geniculate nucleus and visual cortex'
-type: OCWFile
 uid: 769dc38a-0bb5-79e2-8afe-aab4a303d40f
 ---

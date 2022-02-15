@@ -9,6 +9,5 @@ parent_title: Lecture Notes
 parent_type: CourseSection
 resourcetype: Document
 title: 'Vision Lecture 5 Notes: The Midget and Parasol channels'
-type: OCWFile
 uid: d64786aa-6604-c1fd-019d-2d70ff1b6a01
 ---

@@ -9,6 +9,5 @@ parent_title: Lecture Notes
 parent_type: CourseSection
 resourcetype: Document
 title: 'Vision Lecture 8 Notes: Form perception'
-type: OCWFile
 uid: cf02dc06-a7ce-5fb0-0d68-410bce6ec732
 ---

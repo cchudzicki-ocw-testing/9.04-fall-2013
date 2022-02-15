@@ -9,6 +9,5 @@ parent_title: Lecture Notes
 parent_type: CourseSection
 resourcetype: Document
 title: 'Vision Lecture 2 Notes: Layout of the retina, lateral geniculate nucleus'
-type: OCWFile
 uid: 73e3b4a0-201c-3c56-4239-4c1d87b73b99
 ---
