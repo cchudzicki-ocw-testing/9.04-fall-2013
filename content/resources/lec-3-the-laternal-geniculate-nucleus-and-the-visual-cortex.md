@@ -4,6 +4,7 @@ description: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+ocw_type: ''
 optional_tab_title: Lecture Notes
 optional_text: '[Lateral geniculate nucleus and the visual cortex (PDF - 4.0MB)](resources/mit9_04f13_vis3)'
 parent_title: Lecture Videos

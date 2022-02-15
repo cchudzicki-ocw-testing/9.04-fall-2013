@@ -4,6 +4,7 @@ description: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+ocw_type: ''
 optional_tab_title: Lecture Notes
 optional_text: '[Form perception (PDF - 3.5MB)](resources/mit9_04f13_vis8)'
 parent_title: Lecture Videos

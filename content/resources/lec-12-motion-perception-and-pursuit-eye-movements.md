@@ -4,6 +4,7 @@ description: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+ocw_type: ''
 optional_tab_title: Lecture Notes
 optional_text: '[Motion perception and pursuit eye movements (PDF)](resources/mit9_04f13_vis12)'
 parent_title: Lecture Videos

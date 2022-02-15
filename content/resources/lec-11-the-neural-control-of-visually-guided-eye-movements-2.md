@@ -4,6 +4,7 @@ description: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+ocw_type: ''
 optional_tab_title: Lecture Notes
 optional_text: '[The neural control of visually guided eye movements, part 2 (PDF)](resources/mit9_04f13_vis11)'
 parent_title: Lecture Videos

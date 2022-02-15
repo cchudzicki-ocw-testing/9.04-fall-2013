@@ -4,6 +4,7 @@ description: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+ocw_type: ''
 optional_tab_title: Lecture Notes
 optional_text: '[Depth perception (PDF - 5.0MB)](resources/mit9_04f13_vis7)'
 parent_title: Lecture Videos
