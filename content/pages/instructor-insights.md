@@ -59,7 +59,7 @@ _Below, Profs. Schiller and Brown describe various aspects of how they taught 9.
 Student Information
 -------------------
 
-![Approximately 20 students take this course each time it is offered.]({{< resource_file 9ae51e9b-c56a-c9e4-9e11-730eeed510f9 >}})
+{{< resource 9ae51e9b-c56a-c9e4-9e11-730eeed510f9 >}}
 
 ### Breakdown by Year
 
