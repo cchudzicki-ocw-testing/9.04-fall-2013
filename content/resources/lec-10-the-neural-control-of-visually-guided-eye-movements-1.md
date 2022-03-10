@@ -7,7 +7,7 @@ learning_resource_types:
 ocw_type: ''
 optional_tab_title: Lecture Notes
 optional_text: '[The neural control of visually guided eye movements, part 1 (PDF
-  - 1.2MB)](resources/mit9_04f13_vis10)'
+  - 1.2MB)](/courses/9-04-sensory-systems-fall-2013/resources/mit9_04f13_vis10)'
 parent_title: Lecture Videos
 parent_type: CourseSection
 related_resources_text: ''

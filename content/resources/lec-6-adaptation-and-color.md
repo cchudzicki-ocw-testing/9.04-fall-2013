@@ -6,7 +6,7 @@ learning_resource_types:
 - Lecture Videos
 ocw_type: ''
 optional_tab_title: Lecture Notes
-optional_text: '[Adaptation and color (PDF - 1.6MB)](resources/mit9_04f13_vis6)'
+optional_text: '[Adaptation and color (PDF - 1.6MB)](/courses/9-04-sensory-systems-fall-2013/resources/mit9_04f13_vis6)'
 parent_title: Lecture Videos
 parent_type: CourseSection
 related_resources_text: ''
