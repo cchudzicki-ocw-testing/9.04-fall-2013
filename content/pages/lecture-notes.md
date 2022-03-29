@@ -29,7 +29,7 @@ TOPICS
 1
 {{< tdclose >}}
 {{< tdopen >}}
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif){{% resource_link 15396a3f-5cea-cf99-be76-cb46933788b8 "Introduction to course (PDF)" %}}; ![This resource may not render correctly in a screen reader.](/images/inacessible.gif){{% resource_link 8a7663d2-97f0-15f9-a53d-ca73261d2edf "visual system (PDF)" %}}
+{{% resource_link 15396a3f-5cea-cf99-be76-cb46933788b8 "Introduction to course (PDF)" %}}; {{% resource_link 8a7663d2-97f0-15f9-a53d-ca73261d2edf "visual system (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -38,7 +38,7 @@ TOPICS
 2
 {{< tdclose >}}
 {{< tdopen >}}
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif){{% resource_link 73e3b4a0-201c-3c56-4239-4c1d87b73b99 "Basic layout of the retina (PDF - 1.1MB)" %}}
+{{% resource_link 73e3b4a0-201c-3c56-4239-4c1d87b73b99 "Basic layout of the retina (PDF - 1.1MB)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -47,7 +47,7 @@ TOPICS
 3
 {{< tdclose >}}
 {{< tdopen >}}
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif){{% resource_link 769dc38a-0bb5-79e2-8afe-aab4a303d40f "Lateral geniculate nucleus and the visual cortex (PDF - 2.9MB)" %}}
+{{% resource_link 769dc38a-0bb5-79e2-8afe-aab4a303d40f "Lateral geniculate nucleus and the visual cortex (PDF - 2.9MB)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -56,7 +56,7 @@ TOPICS
 4
 {{< tdclose >}}
 {{< tdopen >}}
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif){{% resource_link 973b5e91-80e8-ca09-c9c8-93a45f0b5980 "The ON and OFF channels (PDF - 2.0MB)" %}}
+{{% resource_link 973b5e91-80e8-ca09-c9c8-93a45f0b5980 "The ON and OFF channels (PDF - 2.0MB)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -65,7 +65,7 @@ TOPICS
 5
 {{< tdclose >}}
 {{< tdopen >}}
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif){{% resource_link d64786aa-6604-c1fd-019d-2d70ff1b6a01 "The Midget and Parasol channels (PDF - 2.3MB)" %}}
+{{% resource_link d64786aa-6604-c1fd-019d-2d70ff1b6a01 "The Midget and Parasol channels (PDF - 2.3MB)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -74,7 +74,7 @@ TOPICS
 6
 {{< tdclose >}}
 {{< tdopen >}}
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif){{% resource_link 361e721b-fba6-49ac-90ee-200b32fcfc6d "Adaptation and color (PDF - 1.1MB)" %}}
+{{% resource_link 361e721b-fba6-49ac-90ee-200b32fcfc6d "Adaptation and color (PDF - 1.1MB)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -83,7 +83,7 @@ TOPICS
 7
 {{< tdclose >}}
 {{< tdopen >}}
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif){{% resource_link 665aaa5d-7ed1-cbb1-e499-8a0e523fcf1f "Depth perception (PDF - 5.6MB)" %}}
+{{% resource_link 665aaa5d-7ed1-cbb1-e499-8a0e523fcf1f "Depth perception (PDF - 5.6MB)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -92,7 +92,7 @@ TOPICS
 8
 {{< tdclose >}}
 {{< tdopen >}}
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif){{% resource_link cf02dc06-a7ce-5fb0-0d68-410bce6ec732 "Form perception (PDF - 3.6MB)" %}}
+{{% resource_link cf02dc06-a7ce-5fb0-0d68-410bce6ec732 "Form perception (PDF - 3.6MB)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -101,7 +101,7 @@ TOPICS
 9
 {{< tdclose >}}
 {{< tdopen >}}
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif){{% resource_link 0192820c-d964-a2c4-a084-338a1a883ccd "Illusions and visual prosthesis (PDF - 1.1MB)" %}}
+{{% resource_link 0192820c-d964-a2c4-a084-338a1a883ccd "Illusions and visual prosthesis (PDF - 1.1MB)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -110,7 +110,7 @@ TOPICS
 10
 {{< tdclose >}}
 {{< tdopen >}}
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif){{% resource_link 4a3a423f-0ad4-82a0-78fe-89a8e650ffd2 "The neural control of visually guided eye movements, part 1 (PDF - 1.5MB)" %}}
+{{% resource_link 4a3a423f-0ad4-82a0-78fe-89a8e650ffd2 "The neural control of visually guided eye movements, part 1 (PDF - 1.5MB)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -119,7 +119,7 @@ TOPICS
 11
 {{< tdclose >}}
 {{< tdopen >}}
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif){{% resource_link 74c900f4-b019-e340-24ce-71373f195d43 "The neural control of visually guided eye movements, part 2 (PDF)" %}}
+{{% resource_link 74c900f4-b019-e340-24ce-71373f195d43 "The neural control of visually guided eye movements, part 2 (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -128,7 +128,7 @@ TOPICS
 12
 {{< tdclose >}}
 {{< tdopen >}}
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif){{% resource_link 13fa7c1e-23b2-38ca-ee56-4e9ef568f3b3 "Motion perception and pursuit eye movements (PDF)" %}}
+{{% resource_link 13fa7c1e-23b2-38ca-ee56-4e9ef568f3b3 "Motion perception and pursuit eye movements (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -137,7 +137,7 @@ TOPICS
 13
 {{< tdclose >}}
 {{< tdopen >}}
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif){{% resource_link 8ae8e141-ed1c-4b81-cc01-6932b806c2f8 "Overview of vision (PDF - 1.4MB)" %}}
+{{% resource_link 8ae8e141-ed1c-4b81-cc01-6932b806c2f8 "Overview of vision (PDF - 1.4MB)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
