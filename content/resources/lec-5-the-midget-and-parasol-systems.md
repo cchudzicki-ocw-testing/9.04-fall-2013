@@ -28,3 +28,4 @@ video_metadata:
 **Description:** This lecture covers the Midget and Parasol channels. It covers how lesions of the parvocellular or magnocellular layers of the LGN affect contrast sensitivity, brightness perception, pattern and texture perception, depth, motion and flicker detection.
 
 **Instructor:** Peter H Schiller
+

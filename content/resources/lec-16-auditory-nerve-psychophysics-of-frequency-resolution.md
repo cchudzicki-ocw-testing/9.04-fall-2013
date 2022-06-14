@@ -28,3 +28,4 @@ video_metadata:
 **Description:** This lecture covers the two types of auditory nerves and frequency discrimination. Topics include tuning and tonotopy, two-tone suppression, psychophysical tuning curves and phase locking. Also discussed is the perception of musical intervals.
 
 **Instructor:** Chris Brown
+

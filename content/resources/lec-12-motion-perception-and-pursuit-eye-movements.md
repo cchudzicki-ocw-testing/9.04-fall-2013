@@ -28,3 +28,4 @@ video_metadata:
 **Description:** This lecture covers how neurons respond to motion and the effects of lesions on motion perception. Other topics also discussed are the ability to determine structure from motion, apparent motion, meta contrast and brightness masking, optokinetic nystagmus, and the accessory optic system.
 
 **Instructor:** Peter H Schiller
+

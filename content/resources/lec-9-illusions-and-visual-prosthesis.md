@@ -28,3 +28,4 @@ video_metadata:
 **Description:** This lecture covers illusions and theories used to explain them. Also discussed are the basic requirements and current research of visual prosthesics.
 
 **Instructor:** Peter H Schiller
+

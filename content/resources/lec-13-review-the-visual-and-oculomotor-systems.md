@@ -28,3 +28,4 @@ video_metadata:
 **Description:** This lecture includes a review of the visual and oculomotor systems. Topics reviewed include visual system anatomy, perception of depth, form and motion, and eye movement control. Also covered are illusions and visual prosthetics.
 
 **Instructor:** Peter H Schiller
+

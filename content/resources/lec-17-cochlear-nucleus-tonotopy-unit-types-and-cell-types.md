@@ -28,3 +28,4 @@ video_metadata:
 **Description:** This lecture covers the anatomy and physiology of the auditory central nervous system and the cochlear nucleus. Auditory implants are also introduced.
 
 **Instructor:** Chris Brown
+

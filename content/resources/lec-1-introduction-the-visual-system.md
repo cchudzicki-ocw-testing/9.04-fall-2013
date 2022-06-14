@@ -31,3 +31,4 @@ video_metadata:
 **Description:** This lecture covers the layout and organization of the course as well as separate introductions to the visual system and the auditory system.
 
 **Instructor:** Peter H Schiller and Chris Brown
+

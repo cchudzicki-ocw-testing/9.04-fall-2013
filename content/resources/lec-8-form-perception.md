@@ -28,3 +28,4 @@ video_metadata:
 **Description:** This lecture covers form perception, including Gestalt principles of organization and the theories of form perception. Also discussed are the properties of spatial frequency analysis and cortical areas important to intermediate vision, subjective contours, and facial recognition.
 
 **Instructor:** Peter H Schiller
+

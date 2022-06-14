@@ -28,3 +28,4 @@ video_metadata:
 **Description:** This lecture covers saccadic eye movements in greater detail, including the role of the superior colliculus, brainstem nuclei and cortical structures involved in saccadic eye movement control. Also discussed are the effects of lesions and pharmacological agents on eye movements.
 
 **Instructor:** Peter H Schiller
+

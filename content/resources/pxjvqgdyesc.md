@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/9-04-sensory-systems-fall-2013/e2ebf1a1496131fc7768ba5f6bdf5dc9_PXJvQGDyESc.srt
+file: /courses/9-04-sensory-systems-fall-2013/e2ebf1a1496131fc7768ba5f6bdf5dc9_PXJvQGDyESc.srt
 file_type: application/x-subrip
 learning_resource_types: []
 ocw_type: OCWFile

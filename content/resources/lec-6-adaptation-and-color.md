@@ -28,3 +28,4 @@ video_metadata:
 **Description:** This lecture covers color vision and adaptation. The major theories of color vision are discussed along with how color is processed in the retina, LGN and cortex. Also covered in this video are color blindness and adaptation, including after-effects.
 
 **Instructor:** Peter H Schiller
+

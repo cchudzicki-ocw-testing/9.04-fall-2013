@@ -28,3 +28,4 @@ video_metadata:
 **Description:** This lecture covers sound localization using binaural cues, including interaural time or level differences. Also discussed is the neural processing of interaural time differences in the medial superior olive (MSO).
 
 **Instructor:** Chris Brown
+

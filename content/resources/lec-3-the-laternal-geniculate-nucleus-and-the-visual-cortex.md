@@ -28,3 +28,4 @@ video_metadata:
 **Description:** This lecture covers the lateral geniculate nucleus and the visual cortex, including V1, extrastriate cortex, V2, V4, MT, MST and inferotemporal cortex areas.
 
 **Instructor:** Peter H Schiller
+

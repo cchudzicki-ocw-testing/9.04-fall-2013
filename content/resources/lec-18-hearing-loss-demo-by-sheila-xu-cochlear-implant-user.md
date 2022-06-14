@@ -28,3 +28,4 @@ video_metadata:
 **Description:** This lecture covers hearing loss, including conductive and sensori-neural, and causes of hearing loss. This is followed by a discussion of auditory implants with a demonstration by Sheila Xu, a cochlear implant user.
 
 **Instructor:** Chris Brown
+
