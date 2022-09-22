@@ -5,6 +5,7 @@ file: /courses/9-04-sensory-systems-fall-2013/0192820cd964a2c4a084338a1a883ccd_M
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection

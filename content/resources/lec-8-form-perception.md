@@ -5,6 +5,7 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: Lecture Notes
 optional_text: '[Form perception (PDF - 3.5MB)](/courses/9-04-sensory-systems-fall-2013/resources/mit9_04f13_vis8)'
